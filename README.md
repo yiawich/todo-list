@@ -4,7 +4,7 @@ Une application web permettant de créer, supprimer et gérer des tâches.
 
 ## 📸 Aperçu
 
-![Capture de la To-do List](/images/To-do-list-bureau.png)
+![Capture de la To-do List](images/To-do-list-bureau.png)
 
 ## 🚀 Fonctionnalités
 
